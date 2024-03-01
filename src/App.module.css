@@ -1,12 +1,30 @@
-.App {
+.app {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.movieSearchWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 300px;
+  width: 100%;
 }
 
+.movieContainer {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+.oscar {
+  color: green;
+}
+.notOscar {
+  color: red;
+}
+
+.uploadContainer {
+  margin-top: 50px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

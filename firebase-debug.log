@@ -1,0 +1,21 @@
+[debug] [2024-03-01T09:14:50.540Z] ----------------------------------------------------------------------
+[debug] [2024-03-01T09:14:50.541Z] Command:       C:\Users\ivana\AppData\Local\Volta\tools\image\node\18.19.1\node.exe C:\Users\ivana\Projects\firebase-app\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-03-01T09:14:50.542Z] CLI Version:   13.3.1
+[debug] [2024-03-01T09:14:50.542Z] Platform:      win32
+[debug] [2024-03-01T09:14:50.542Z] Node Version:  v18.19.1
+[debug] [2024-03-01T09:14:50.542Z] Time:          Fri Mar 01 2024 10:14:50 GMT+0100 (Central European Standard Time)
+[debug] [2024-03-01T09:14:50.543Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-03-01T09:14:50.547Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-03-01T09:14:50.548Z] > authorizing via signed-in user (ivana.p.vasic@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ivana\Projects\firebase-app
+
